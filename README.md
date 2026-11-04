@@ -6,6 +6,12 @@
 
 [LinkedIn](https://www.linkedin.com/in/sahaj-alatage-63715737b/) · [MotherTongue Books (live)](https://mothertongue-books.vercel.app) · [VERITY (live)](https://verity-4rky.onrender.com)
 
+<br/>
+
+<img src="assets/modes.svg" alt="Sahaj Alatage switching between professional mode and developer mode" width="100%"/>
+
+<sub>Wait a few seconds — it switches modes.</sub>
+
 </div>
 
 ---
