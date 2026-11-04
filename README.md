@@ -10,10 +10,10 @@
 
 ---
 
-### 👋 Pick your path
+### 👋 Who's visiting?
 
 <details>
-<summary><b>I'm hiring</b> — the 30-second version</summary>
+<summary><b>Recruiter or hiring manager?</b> — the 30-second version</summary>
 <br/>
 
 - **Open to** internships, freelance and full-time roles.
@@ -25,7 +25,7 @@
 </details>
 
 <details>
-<summary><b>I'm a developer</b> — show me the interesting parts</summary>
+<summary><b>Fellow developer?</b> — the interesting technical parts</summary>
 <br/>
 
 - **FLOAT** keeps a state machine of pill → orb → expanded surface, and restores the exact previous state after a notification banner.
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary><b>Just browsing</b> — what's fun here?</summary>
+<summary><b>Just browsing?</b> — something fun</summary>
 <br/>
 
 The header above is a tiny version of **[FLOAT](https://github.com/Sahaj1207/FLOAT)**, a Dynamic Island I built for Windows. It's a hand-written animated SVG, so no JavaScript — GitHub just plays it.
