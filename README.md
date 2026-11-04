@@ -125,6 +125,15 @@ Edits the existing text in PDFs, screenshots and photos while matching the origi
 | **AI** | Gemini · Meta Muse · multi-agent pipelines · on-device OCR |
 | **Desktop** | Tauri |
 
+---
+
+### 🐍 A year of commits, eaten daily
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sahaj1207/Sahaj1207/output/snake-dark.svg"/>
+  <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Sahaj1207/Sahaj1207/output/snake-light.svg"/>
+</picture>
+
 <div align="center">
 <br/>
 <sub>Tap any row above to expand it ✦ The header is a hand-made SVG — <a href="assets/island.svg">peek at the source</a></sub>
